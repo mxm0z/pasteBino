@@ -10,3 +10,9 @@ Bash script for scraping, parsing and retrieving data from Pastebin/Gist using P
 ```
 ./pastebino.sh <Pastebeen results URL> <email> <password> <destination folder [optional]>
 ```
+
+## Scheduling a task
+
+```
+./tasker.sh <start date> <end date> <regex> <email> <password>
+```
