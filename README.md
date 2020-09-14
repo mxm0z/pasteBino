@@ -1,3 +1,5 @@
+Disclaimer: The tool was not developed with the intention to abuse any services from Pastebeen.com. The website is a great resource and I encourage you to support it.
+
 <p align="center">
   <img alt="pasteBino" src="https://github.com/mxm0z/pasteBino/blob/master/pasteBino.png?raw=true" height="350" />
 </p>
